@@ -1,2 +1,2 @@
-# project_for_school
-1주차 실습내용
+# the-viral
+회사 홈페이지 제작
