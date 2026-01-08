@@ -412,9 +412,6 @@
     window.addEventListener('load', handleResize);
     </script>
 
-    <!-- Footer -->
-    <?php include "../footer.php" ?>
-
 </body>
 
 </html>

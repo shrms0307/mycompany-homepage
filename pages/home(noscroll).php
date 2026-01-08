@@ -673,8 +673,6 @@
 
 </script>
 
-<!-- footer -->
-<?php include "../footer.php" ?>
 
 <script>
 

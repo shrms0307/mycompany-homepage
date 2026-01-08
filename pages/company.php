@@ -469,9 +469,7 @@
         color: #00AAFF;
     }
     </style>
-
-    <!-- Footer -->
-    <?php include "../footer.php" ?>
+    
     <script>
     $(document).ready(function() {
         function checkVisibility() {
