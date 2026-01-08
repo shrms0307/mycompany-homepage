@@ -587,11 +587,6 @@
     });
     </script>
 
-
-    <section>
-        <!-- Footer -->
-        <?php include "../footer.php" ?>
-    </section>
 </body>
 
 </html>
